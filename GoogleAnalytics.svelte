@@ -2,8 +2,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id={id}"></script>
 </svelte:head>
 <script>
-    import { stores } from "@sapper/app"
-
+    export let stores
     export let id
 
     if (typeof window !== "undefined") {
