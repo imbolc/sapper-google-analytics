@@ -16,7 +16,7 @@ npm i sapper-google-analytics
 And add it to your `src/routes/_layout.svelte`:
 
 ```html
-<GoogleAnalytics id={ga_measurment_id}"/>
+<GoogleAnalytics id={ga_measurment_id}/>
 
 <script>
     import GoogleAnalytics from "sapper-google-analytics/GoogleAnalytics.svelte"
