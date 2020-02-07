@@ -1,0 +1,24 @@
+{
+  "name": "sapper-google-analytics",
+  "version": "1.0.0",
+  "description": "Google Analytics for Sapper (Svelte)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:imbolc/sapper-google-analytics.git"
+  },
+  "keywords": [
+    "sapper",
+    "svelte",
+    "google analytics"
+  ],
+  "author": "Imbolc <imbolc@imbolc.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imbolc/sapper-google-analytics/issues"
+  },
+  "homepage": "https://github.com/imbolc/sapper-google-analytics#readme"
+}
