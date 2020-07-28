@@ -11,7 +11,7 @@
             window.dataLayer.push(arguments)
         }
         window.gtag("js", new Date())
-        window.gtag("config", id)
+        window.gtag("config", id, { 'send_page_view': false })
     }
 
     const { page } = stores();
